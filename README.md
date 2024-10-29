@@ -1,5 +1,7 @@
 Data Structures and Algorithms in python.
 
+Algorithms
+==========
 Searching:
   Linear Search
   Binary Search
@@ -10,3 +12,8 @@ Sorting:
   Insertion Sort
   Quick Sort
   Merge Sort
+
+Data Structures
+==== ==========
+Tree
+Graph

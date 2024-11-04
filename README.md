@@ -14,6 +14,6 @@ Sorting:
   Merge Sort
 
 Data Structures
-==== ==========
+===============
 Tree
 Graph

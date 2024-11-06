@@ -17,3 +17,4 @@ Data Structures
 ===============
 Tree
 Graph
+Linked List
